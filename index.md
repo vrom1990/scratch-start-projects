@@ -13,8 +13,16 @@
 
 ## Интерактивное искусство
 
+[<img src="/scratch-start-projects/img/art.png">](https://scratch.mit.edu/studios/25114168)
+
 ## Музыка и танцы
+
+[<img src="/scratch-start-projects/img/games.png">](https://scratch.mit.edu/studios/25114210)
 
 ## Истории
 
+[<img src="/scratch-start-projects/img/games.png">](https://scratch.mit.edu/studios/25114210)
+
 ## Видеораспознавание
+
+[<img src="/scratch-start-projects/img/games.png">](https://scratch.mit.edu/studios/25114210)
