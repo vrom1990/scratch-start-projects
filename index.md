@@ -4,6 +4,7 @@
 
 
 ## Анимация
+(![alt text](/img/animation.png "Анимация"))[https://scratch.mit.edu/studios/25114239/]
 
 ## Игры
 
