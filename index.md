@@ -21,7 +21,7 @@
 
 ## Истории
 
-[<img src="/scratch-start-projects/img/games.png">](https://scratch.mit.edu/studios/25114210)
+[<img src="/scratch-start-projects/img/stories.png">](https://scratch.mit.edu/studios/25114131)
 
 ## Видеораспознавание
 
