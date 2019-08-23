@@ -5,11 +5,11 @@
 
 ## Анимация
 
-[<img src="/img/animation.png"](https://scratch.mit.edu/studios/25114239/)
+[<img src="/img/animation.png">](https://scratch.mit.edu/studios/25114239/)
 
 ## Игры
 
-[<img src="/img/games.png"](https://scratch.mit.edu/studios/25114210)
+[<img src="/img/games.png">](https://scratch.mit.edu/studios/25114210)
 
 ## Интерактивное искусство
 
