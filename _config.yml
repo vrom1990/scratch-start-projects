@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: Проекты для начинающих
+github:
+  is_project_page: false
